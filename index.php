@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <?php
+    include_once 'includes/head.php'
+    ?>
+<body >
+    <?php
+    include_once 'includes/main.php'
+    ?>
+    <div id="normalBox">
+       <div style="background-image: url(https://usagif.com/wp-content/uploads/2022/hqgif/ocean-wave-83-dark-eye-wave.gif);" id="bgImage"></div>
+        <h1 >GESTION DE INVENTARIOS</h1>
+        <h3>Alguna vez has necesitado gestionar tu inventario o tu empresa de manera sensilla?
+            aqui tenemos la solucion infalible para lograrlo de manera sensilla rapida y confaible
+            con nuestro nuevo producto de marketing y gestion de empresas online.
+        </h3>
+        <div style="margin-bottom:40px;margin-top: 40px;">
+            <a href="/sections/register.php" id="mag" style="color:white;background-color:rgb(90, 88, 88);margin-right:30px;">Empezar ahora</a> 
+        </div>
+        <img style="width: 200px;" src="https://th.bing.com/th/id/R.3f99f56a04d6739addf1cdffc3554b84?rik=my2eKezamSXMVg&pid=ImgRaw&r=0">
+    </div>
+    <div id="normalBox">
+        <h2>
+            aprende como gestionar un inventario rapidamente con nuestro aplicativo web con distintos <br>servicios en la nube
+        </h2>
+        
+    </div>
+     <div  style="display: flex;" id="normalBox">
+        <div style="background-image:url(https://c.tenor.com/IIjySp3D0QcAAAAM/fnaf-dance.gif)" id="bgImage"></div>
+        <div id="into">
+            <h2>Maneja los <i style="text-shadow: 0 0 20px;color:rgb(0, 153, 255)">productos</i></h2>
+            <h3>Podras costumizar como desees el tipo de producto, su nombre descripcion e incluso añadirle una imagen</h3>
+        </div>
+         <div id="into">
+           <h2>Personaliza las <i style="text-shadow: 0 0 20px;color:blue">cantidades</i></h2>
+           <h3>Personaliza las cantidades quantitativas de tu producto y convierte los productos en maravillosas
+            bibliotecas ordenadas
+           </h3>
+        </div>
+    </div>
+    <div id="normalBox">
+        <h2>Facil de usar e intuitivo</h2>
+        <div style="display: flex;">  
+             <img style="width: 300px;" src="https://static.vecteezy.com/system/resources/thumbnails/045/386/549/small_2x/delivery-boy-holding-packages-cartons-boxes-isolated-on-transparent-background-png.png">
+             <h3>el sistema de inventario es bastante facil de usar por lo usuarios sin importar sus conocimientos en el area 
+            facil para novatos empresariales y para que la gestion sea mucho mas sensilla con nuestro producto
+        </h3></div>
+    </div>
+</body>
+</html>
