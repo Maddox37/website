@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-    <?php
+<head>
+      <?php
     include_once 'https://htmlpreview.github.io/?https://github.com/Maddox37/website/blob/main/includes/head.php'
     ?>
+</head>
+  
 <body >
     <?php
     include_once 'includes/main.php'
