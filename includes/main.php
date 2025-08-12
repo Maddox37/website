@@ -7,6 +7,3 @@
         </nav>
     </div>
     <div style="margin-top: 50px;"></div>
-    <?php if (isset($_SESSION['user_id'])): ?>
-        <a href="/sections/add_product.php">Agregar Producto</a>
-    <?php endif; ?>
